@@ -1,0 +1,22 @@
+{
+  "name": "nckh2023",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000c\u0000k\u0000h\u0000\r\u0000 \u0000",
+  "main": "starttest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htquy/nckh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htquy/nckh/issues"
+  },
+  "homepage": "https://github.com/htquy/nckh#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
